@@ -1,2 +1,2 @@
-# Mountains
-This is i believe i can fly
+*.md linguist-documentation=false
+*.md linguist-language=JavaScript
